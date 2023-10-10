@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jimenezmu/Documents/Modelado-y-animacion/unreal/modeling_test/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/jimenezmu/Documents/Modelado-y-animacion/unreal/modeling_test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jimenezmu/Documents/Modelado-y-animacion/unreal/modeling_test/Content/testing/test_material.uasset",
+				"C:/Users/jimenezmu/Documents/Modelado-y-animacion/unreal/modeling_test/Content/testing/ejercicio2.uasset"
 			]
 		}
 	]
