@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Master.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Brick.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Steel.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Steel.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_opper.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Copper.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Aluminum.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Rust.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/NewMap.umap",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Aluminum.uasset"
+			]
+		}
+	]
+}
